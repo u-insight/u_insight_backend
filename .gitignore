@@ -1,0 +1,15 @@
+
+
+__pycache__/
+*.pyc
+.env
+*.env
+*.log
+*.sqlite3
+venv/
+.idea/
+.firebase/
+credentials.json
+backend/app/__pycache__/
+backend/app/core/__pycache__/
+backend/app/models/__pycache__/
